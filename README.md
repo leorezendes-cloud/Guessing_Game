@@ -1,7 +1,7 @@
 # Leo's Unbelievably Good Guessing Game
 
 
-#A simple/extroadinary guessing game that I created while practicing bash scripting.
+A simple/extroadinary guessing game that I created while practicing bash scripting.
 
 ## Features
 
@@ -17,5 +17,5 @@
 ## Run
 
 chmod u+x guessing-game.sh
-./guessing-game
+./guessing-game.sh
 
