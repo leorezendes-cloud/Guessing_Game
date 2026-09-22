@@ -16,6 +16,7 @@ A simple/extroadinary guessing game that I created while practicing bash scripti
 
 ## Run
 
+```bash
 chmod u+x guessing-game.sh
 ./guessing-game.sh
-
+```
